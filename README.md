@@ -1,5 +1,5 @@
 # mammography-ml
-### Jupyter Notebook to create machine learning model &amp; explore mammography data to predict breast cancer using pandas
+### Explore mammography data to predict breast cancer using pandas,sklearn in a jupyter notebook
 #### 1. Read breast cancer data
 #### 2. Explore data : What kind of columns are there in the data, how does the data look like
 #### 3. Explore data : Run describe to figure out mean, count, median and other basic statistical functions
