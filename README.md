@@ -10,3 +10,6 @@
 #### 8. Pre-process data : Using sklearn, normalize the data
 #### 9. Split train-test data : Split data into training data set ( 75% ) and testing data set ( 25% ) using sklearn
 #### 10.Decision tree model: Use DecisionTreeClassifier from sklearn to fit the model and find test and train score
+
+# breast-cancer-wisconsin data
+### Use pandas to read data and matplotlib & seaborn to plot graphs
